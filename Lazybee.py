@@ -19,7 +19,7 @@ print (red+b+"""
         (    (     (    (     (    (    (      
 """+b+red)
 
-print (gren+b+"            <===[[ coded by N17R0 ]]===>"+b+gren)
+print (gren+b+"       <===[[ coded by N17R0 ]]===>"+b+gren)
 print (" ")
 print (yellow+b+"     <---( Edited by HackE0r)--->"+b+yellow)
 print (" ")
